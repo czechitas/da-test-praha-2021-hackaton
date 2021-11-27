@@ -31,7 +31,7 @@ exports.config = {
     }],
     logLevel: 'warn',
     bail: 0,
-    baseUrl: 'http://www.czechitas.cz',
+    baseUrl: 'http://czechitas-datestovani-hackathon.cz/en/',
     waitforTimeout: 10000,
     connectionRetryTimeout: 120000,
     connectionRetryCount: 3,
